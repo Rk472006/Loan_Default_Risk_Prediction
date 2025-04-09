@@ -58,26 +58,26 @@ Given a dataset of applicants with both **numerical** and **categorical** featur
 
 ---
 🛠️ How to Use
-To run this project and evaluate the loan default prediction model, follow these steps:
+- To run this project and evaluate the loan default prediction model, follow these steps:
 1️⃣ Clone the Repository
-Start by cloning the GitHub repository to your local machine. This will give you access to the Jupyter notebook and associated project files.
+ - Start by cloning the GitHub repository to your local machine. This will give you access to the Jupyter notebook and associated project files.
 2️⃣ Upload the Dataset
-The dataset file, named Training Data.csv, is required for training and evaluation.
-If you're using Google Colab, use the file upload utility within the notebook to upload the dataset.
-If you're using a local Jupyter Notebook, place the dataset file in the same directory as the notebook.
+ - The dataset file, named Training Data.csv, is required for training and evaluation.
+ - If you're using Google Colab, use the file upload utility within the notebook to upload the dataset.
+ - If you're using a local Jupyter Notebook, place the dataset file in the same directory as the notebook.
 3️⃣ Install Required Libraries
-Ensure that Python is installed on your machine. Then, install the necessary libraries, which include:
-pandas and numpy for data manipulation
-scikit-learn for preprocessing and model evaluation
-tensorflow for building and training the neural network
-These libraries can be installed via pip (Python package manager).
+ - Ensure that Python is installed on your machine. Then, install the necessary libraries, which include:
+ - pandas and numpy for data manipulation
+ - scikit-learn for preprocessing and model evaluation
+ - tensorflow for building and training the neural network
+ These libraries can be installed via pip (Python package manager).
 4️⃣ Run the Notebook
-Once everything is set up:
-Open the notebook file (Loan_Default_Risk_Prediction.ipynb) in Jupyter or Google Colab.
-Run all the cells sequentially:
-This will preprocess the data
-Build and train the deep learning model
-Evaluate the model on a test set and display the accuracy
+ - Once everything is set up:
+   - Open the notebook file (Loan_Default_Risk_Prediction.ipynb) in Jupyter or Google Colab.
+   - Run all the cells sequentially:
+   - This will preprocess the data
+   - Build and train the deep learning model
+   - Evaluate the model on a test set and display the accuracy
 
 ---
 
