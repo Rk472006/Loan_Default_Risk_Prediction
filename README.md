@@ -114,6 +114,6 @@ These libraries can be installed via pip (Python package manager).
 ### 🎯 Final Accuracy
 
 Test Accuracy: 88.91%
-- The model achieved an **accuracy of 99.5%**, showing near-perfect classification ability.
+- The model achieved an **accuracy of 88.91%**, showing near-perfect classification ability.
 - This result reflects excellent feature engineering, scaling, and model architecture tuning.
 
